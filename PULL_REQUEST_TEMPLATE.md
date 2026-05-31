@@ -24,4 +24,4 @@
 
 ## Tarefa do Jira
 
-> Colocar link da story do Jira
+> [Copie aqui o nome exato da story](copie-aqui-o-link-exato-da-story)
