@@ -1,6 +1,5 @@
-# Pull Request Template
+# Título da PR
 
-```markdown
 ## Descrição
 
 > Descreva brevemente o que foi alterado
@@ -26,4 +25,3 @@
 ## Tarefa do Jira
 
 > Colocar link da story do Jira
-```
