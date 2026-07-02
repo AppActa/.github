@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/logo.png" alt="Brasão de Hogwarts" width="300">
+    <img src="../docs/logo.png" alt="Logo do ACTA" width="300">
 </p>
 
 <h2 align="center">Bem-vindo(a) ao ACTA!</h2>
@@ -69,11 +69,11 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
 
 ### BANCO DE DADOS:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="80" alt="Redis"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="80" alt="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"  width="80" alt="Neo4j"><img src="docs/qdrant.png" width="80" alt="Qdrant">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="80" alt="PostgreSQL" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="80" alt="Redis"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="80" alt="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"  width="80" alt="Neo4j"><img src="../docs/qdrant.png" width="80" alt="Qdrant">
 
 ### ANÁLISE DE DADOS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" /> <img src="docs/databricks.svg" width="80" alt="Databricks"> <img src="https://logosandtypes.com/wp-content/uploads/2024/01/qlik.svg" width="80" alt="Qlik">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" /> <img src="../docs/databricks.svg" width="80" alt="Databricks"> <img src="https://logosandtypes.com/wp-content/uploads/2024/01/qlik.svg" width="80" alt="Qlik">
 
 ### DESIGN (UI/UX):
 
