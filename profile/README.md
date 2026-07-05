@@ -14,46 +14,86 @@
 
 Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para controle do ciclo do PDCA. Nossa missão é digitalizar o gerenciamento e geração de planos de ação, análise de causas e documentos de padronização, transformando a metodologia do PDCA em um fluxo estruturado, rastreável e potencializado por inteligência artificial.
 
-## Principais funcionalidades
+---
 
-### Coleta de Dados
-- Formulários dinâmicos configuráveis pelo gestor
-- Importação de dados via .csv/.xlsx
-- Registro de data/hora automático
-- Anexos (arquivos, fotos, dados)
-- Assinatura digital
+## Principais Funcionalidades
 
-### Análise
-- Diagrama de Ishikawa
-- 5 Porquês com encadeamento aberto até a causa raiz
-- Priorização de problemas
-- Redefinição estruturada do problema
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-### Execução
-- Cronograma / Gráfico de Gant
-- Kanban
-- Atribuição de responsáveis
-- Controle de prazo
-- Registro de desvios
+### 📥 Coleta de Dados
 
-### Governança
-- Padronização de soluções
-- Bloqueio de avanço de etapas
-- Aprovação manual do gestor
+- 📝 Formulários dinâmicos
+- 📂 Importação CSV/XLSX
+- 🕒 Registro automático
+- 📎 Anexos
+- ✍️ Assinatura digital
+<br>
 
-### Relatórios
-- Relatórios one-click
-- Dashboard gerencial em tempo real
-- Visualização de desempenho por colaborador
-- KPIs configuráveis
-- Comparação entre ciclos encerrados
-- Lições aprendidas
+</td>
 
-### Inteligência Artificial
-- Sugestão de causas e ações
-- Geração de documentos de padronização
-- Recomendação de padrões baseada em ciclos anteriores
-- Detecção de recorrência de problemas
+<td valign="top" width="33%">
+
+### 🔍 Análise
+
+- 🐟 Ishikawa
+- ❓ 5 Porquês
+- 📊 Priorização
+- 🎯 Redefinição do problema
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🚀 Execução
+
+- 📅 Gantt
+- 📋 Kanban
+- 👤 Responsáveis
+- ⏳ Prazos
+- ⚠️ Desvios
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🛡️ Governança
+
+- 📖 Padronização
+- 🚧 Bloqueio de etapas
+- ✅ Aprovação do gestor
+
+</td>
+
+<td valign="top">
+
+### 📈 Relatórios
+
+- 📄 One-click
+- 📊 Dashboard
+- 👥 Desempenho
+- 📏 KPIs
+- 🔄 Comparação de ciclos
+- 💡 Lições aprendidas
+<br>
+
+</td>
+
+<td valign="top">
+
+### 🤖 IA
+
+- 🧠 Sugestão de causas
+- 📜 Documentação automática
+- 🎯 Recomendações
+- 🔁 Detecção de recorrência
+
+</td>
+</tr>
+</table>
 
 ---
 
