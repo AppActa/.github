@@ -113,7 +113,7 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
 
 ### ANÁLISE DE DADOS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" /> <img src="../docs/databricks.svg" width="80" alt="Databricks"> <img src="https://logosandtypes.com/wp-content/uploads/2024/01/qlik.svg" width="80" alt="Qlik">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" alt="Python" /> <img src="../docs/databricks.svg" width="80" alt="Databricks">
 
 ### DESIGN (UI/UX):
 
@@ -121,11 +121,11 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
 
 ### DEVOPS:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="80" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="80" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" alt="GIT" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="80" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="80" alt="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" alt="GIT" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" alt="GitHub" /> <img src="https://www.svgrepo.com/show/376356/aws.svg" width="80" alt="AWS" /> <img src="https://devicons.io/devicons/icons/terraform-icon.svg" width="80" alt="Terraform"> <img src="https://devicons.io/devicons/icons/argo-icon.svg" width="80" alt="ArgoCD">
 
 ### IDES E EDITORES DE TEXTO:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" alt="VSCode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="80" alt="Intellij"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="80" alt="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="80" alt="WebStorm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="80" alt="DataGrip"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" width="80" alt="DataSpell" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" alt="VSCode"><img src="https://devicons.io/devicons/icons/cursor-icon.svg" width="80" alt="Cursor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="80" alt="Intellij"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="80" alt="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="80" alt="WebStorm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="80" alt="DataGrip"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" width="80" alt="DataSpell" >
 
 ---
 
