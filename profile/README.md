@@ -255,7 +255,7 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
                     <td valign="top">
                         <strong>Gabriel Vigna</strong><br>
                         <a href="https://github.com/bielvigna">@bielvigna</a><br>
-                        <small>DADOS</small>
+                        <small>DADOS / BACK-END DEV</small>
                     </td>
                 </tr>                
                 <tr>
