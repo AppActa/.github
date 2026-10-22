@@ -164,7 +164,7 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
                     <td valign="top">
                         <strong>Cauê Minini</strong><br>
                         <a href="https://github.com/cAlvarezx">@cAlvarezx</a><br>
-                        <small>DADOS / BACK-END DEV</small>
+                        <small>DADOS / FRONT-END DEV</small>
                     </td>
                 </tr>
             </table>
@@ -179,7 +179,7 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
                     <td valign="top">
                         <strong>Mariana Xavier</strong><br>
                         <a href="https://github.com/marixavierr">@marixavierr</a><br>
-                        <small>BACK-END DEV</small>
+                        <small>FRONT-END DEV</small>
                     </td>
                 </tr>
                 <tr>
@@ -189,7 +189,7 @@ Somos a equipe do **ACTA**, que é dedicada a criar uma ferramenta digital para 
                     <td valign="top">
                         <strong>Rapahel Braga</strong><br>
                         <a href="https://github.com/Raphinha301">@Raphinha301</a><br>
-                        <small>FRONT-END DEV</small>
+                        <small>BACK-END DEV</small>
                     </td>
                 </tr>
             </table>
