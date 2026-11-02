@@ -1,11 +1,7 @@
-<p align="center">
-    <img src="../docs/logo.png" alt="Logo do ACTA" width="300">
-</p>
-
 <h2 align="center">Bem-vindo(a) ao ACTA!</h2>
 
 <p align="center">
-    <em>Transformando planejamento em resultado.</em>
+    <img src="banner/banner.svg" alt="Banner do ACTA" width="100%">
 </p>
 
 ---
